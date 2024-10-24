@@ -15,7 +15,10 @@ public class Ejercicio06 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(Math.sqrt(81)+9 / (3)==9);
+        boolean operando1 = 10>1;
+        boolean operando2 = 6 == 9;
+        boolean valorC = operando1 && operando2;
+        System.out.println(valorC);
     }
     
 }
