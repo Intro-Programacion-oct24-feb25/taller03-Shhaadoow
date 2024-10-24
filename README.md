@@ -1,4 +1,4 @@
-# Taller3
+# Taller3 Pablo Ordóñez y Joel Dominguez
 * Taller 3 (Laboratorio): Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
 
 ### Ejercicio01
